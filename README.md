@@ -13,7 +13,7 @@
 ##
 ### Мой сайт-портфолио
 
-[<img src="https://img.shields.io/badge/truenow.ru-ffffff?style=for-the-badge&logo=ArcGIS=#26A5E4"/>](https://truenow.ru)
+[<img src="https://img.shields.io/badge/truenow.ru-ffffff?style=for-the-badge&logo=ArcGIS&logoColor=#26A5E4"/>](https://truenow.ru)
 
 ##
 ### Контакты

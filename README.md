@@ -16,3 +16,5 @@
 [<img src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=#26A5E4"/>](https://t.me/trunov_alexey)
 [<img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/>](https://www.instagram.com/trunov_alexey/)
 [<img src="https://img.shields.io/badge/VK-ffffff?style=for-the-badge&logo=VK&logoColor=0077FF"/>](https://vk.com/trunov_alexey)
+
+truenow.ru
